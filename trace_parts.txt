@@ -1,0 +1,142 @@
+>>> Part 1: type:1 | arrival_time:0 | entered_machine_A_time:0 | left_machine_A_time:15.94 | entered_machine_C_time:15.94 | left_machine_C_time:31.06 | 
+----------------------------------------------------
+>>> Part 2: type:2 | arrival_time:0 | entered_machine_B_time:0 | left_machine_B_time:17.33 | entered_queue_C_time:17.33 | entered_machine_C_time:39.29 | left_machine_C_time:46.66 | 
+----------------------------------------------------
+>>> Part 3: type:1 | arrival_time:20.57 | entered_machine_A_time:20.57 | left_machine_A_time:25.51 | entered_queue_C_time:25.51 | entered_machine_C_time:31.06 | left_machine_C_time:39.29 | 
+----------------------------------------------------
+>>> Part 4: type:2 | arrival_time:29.92 | entered_machine_B_time:29.92 | left_machine_B_time:48.98 | entered_machine_C_time:48.98 | left_machine_C_time:61.68 | 
+----------------------------------------------------
+>>> Part 5: type:2 | arrival_time:40.74 | entered_queue_B_time:40.74 | entered_machine_B_time:48.98 | left_machine_B_time:67.29 | entered_queue_C_time:67.29 | entered_machine_C_time:72.83 | left_machine_C_time:87.87 | 
+----------------------------------------------------
+>>> Part 6: type:1 | arrival_time:41.94 | entered_machine_A_time:41.94 | left_machine_A_time:52.68 | entered_queue_C_time:52.68 | entered_machine_C_time:61.68 | left_machine_C_time:72.83 | 
+----------------------------------------------------
+>>> Part 7: type:1 | arrival_time:62.09 | entered_machine_A_time:62.09 | left_machine_A_time:73.75 | entered_queue_C_time:73.75 | entered_machine_C_time:87.87 | left_machine_C_time:99.43 | 
+----------------------------------------------------
+>>> Part 8: type:2 | arrival_time:68.29 | entered_machine_B_time:68.29 | left_machine_B_time:85.66 | entered_queue_C_time:85.66 | entered_machine_C_time:99.43 | left_machine_C_time:107.85 | 
+----------------------------------------------------
+>>> Part 9: type:1 | arrival_time:83.99 | entered_machine_A_time:83.99 | left_machine_A_time:105.84 | entered_queue_C_time:105.84 | entered_machine_C_time:107.85 | left_machine_C_time:119.61 | 
+----------------------------------------------------
+>>> Part 10: type:2 | arrival_time:85.56 | entered_queue_B_time:85.56 | entered_machine_B_time:85.66 | left_machine_B_time:99.73 | entered_queue_C_time:99.73 | entered_machine_C_time:119.61 | left_machine_C_time:131.92 | 
+----------------------------------------------------
+>>> Part 11: type:2 | arrival_time:89.36 | entered_queue_B_time:89.36 | entered_machine_B_time:99.73 | left_machine_B_time:114.99 | entered_queue_C_time:114.99 | entered_machine_C_time:160.99 | left_machine_C_time:171.35 | 
+----------------------------------------------------
+>>> Part 12: type:2 | arrival_time:105.37 | entered_queue_B_time:105.37 | entered_machine_B_time:114.99 | left_machine_B_time:135.85 | entered_queue_C_time:135.85 | entered_machine_C_time:183.6 | left_machine_C_time:195.02 | 
+----------------------------------------------------
+>>> Part 13: type:1 | arrival_time:105.74 | entered_queue_B_time:105.74 | entered_machine_A_time:105.84 | left_machine_A_time:131.34 | entered_queue_C_time:131.34 | entered_machine_C_time:131.92 | left_machine_C_time:144.66 | 
+----------------------------------------------------
+>>> Part 14: type:2 | arrival_time:120.03 | entered_queue_B_time:120.03 | entered_machine_B_time:135.85 | left_machine_B_time:154.23 | entered_queue_C_time:154.23 | entered_machine_C_time:214.08 | left_machine_C_time:217.59 | 
+----------------------------------------------------
+>>> Part 15: type:2 | arrival_time:126.53 | entered_queue_B_time:126.53 | entered_machine_B_time:154.23 | left_machine_B_time:172.88 | entered_queue_C_time:172.88 | entered_machine_C_time:234.91 | left_machine_C_time:244.11 | 
+----------------------------------------------------
+>>> Part 16: type:1 | arrival_time:130.18 | entered_queue_B_time:130.18 | entered_machine_A_time:131.34 | left_machine_A_time:135.48 | entered_queue_C_time:135.48 | entered_machine_C_time:144.66 | left_machine_C_time:160.99 | 
+----------------------------------------------------
+>>> Part 17: type:1 | arrival_time:145.47 | entered_machine_A_time:145.47 | left_machine_A_time:162.5 | entered_queue_C_time:162.5 | entered_machine_C_time:171.35 | left_machine_C_time:183.6 | 
+----------------------------------------------------
+>>> Part 18: type:2 | arrival_time:146.33 | entered_queue_B_time:146.33 | entered_machine_B_time:172.88 | left_machine_B_time:191.4 | entered_queue_C_time:191.4 | entered_machine_C_time:257.03 | left_machine_C_time:261.26 | 
+----------------------------------------------------
+>>> Part 19: type:1 | arrival_time:159.63 | entered_queue_B_time:159.63 | entered_machine_A_time:162.5 | left_machine_A_time:188.81 | entered_queue_C_time:188.81 | entered_machine_C_time:195.02 | left_machine_C_time:204.91 | 
+----------------------------------------------------
+>>> Part 20: type:2 | arrival_time:174.31 | entered_queue_B_time:174.31 | entered_machine_B_time:191.4 | left_machine_B_time:208.93 | entered_queue_C_time:208.93 | entered_machine_C_time:261.26 | left_machine_C_time:271.89 | 
+----------------------------------------------------
+>>> Part 21: type:1 | arrival_time:175.7 | entered_queue_B_time:175.7 | entered_machine_A_time:188.81 | left_machine_A_time:198.06 | entered_queue_C_time:198.06 | entered_machine_C_time:204.91 | left_machine_C_time:214.08 | 
+----------------------------------------------------
+>>> Part 22: type:2 | arrival_time:193.96 | entered_queue_B_time:193.96 | entered_machine_B_time:208.93 | left_machine_B_time:224.98 | entered_queue_C_time:224.98 | entered_machine_C_time:279.79 | left_machine_C_time:291.1 | 
+----------------------------------------------------
+>>> Part 23: type:1 | arrival_time:198.3 | entered_machine_A_time:198.3 | left_machine_A_time:215.71 | entered_queue_C_time:215.71 | entered_machine_C_time:217.59 | left_machine_C_time:225.4 | 
+----------------------------------------------------
+>>> Part 24: type:2 | arrival_time:211.78 | entered_queue_B_time:211.78 | entered_machine_B_time:224.98 | left_machine_B_time:243.63 | entered_queue_C_time:243.63 | entered_machine_C_time:304.96 | left_machine_C_time:311.11 | 
+----------------------------------------------------
+>>> Part 25: type:1 | arrival_time:219.67 | entered_machine_A_time:219.67 | left_machine_A_time:225.11 | entered_queue_C_time:225.11 | entered_machine_C_time:225.4 | left_machine_C_time:234.91 | 
+----------------------------------------------------
+>>> Part 26: type:2 | arrival_time:219.69 | entered_queue_B_time:219.69 | entered_machine_B_time:243.63 | left_machine_B_time:263.35 | entered_queue_C_time:263.35 | entered_machine_C_time:321.61 | left_machine_C_time:328.96 | 
+----------------------------------------------------
+>>> Part 27: type:2 | arrival_time:228.92 | entered_queue_B_time:228.92 | entered_machine_B_time:263.35 | left_machine_B_time:280.33 | entered_queue_C_time:280.33 | entered_machine_C_time:328.96 | left_machine_C_time:341.28 | 
+----------------------------------------------------
+>>> Part 28: type:1 | arrival_time:236.69 | entered_machine_A_time:236.69 | left_machine_A_time:243.06 | entered_queue_C_time:243.06 | entered_machine_C_time:244.11 | left_machine_C_time:257.03 | 
+----------------------------------------------------
+>>> Part 29: type:1 | arrival_time:256.6 | entered_machine_A_time:256.6 | left_machine_A_time:270.36 | entered_queue_C_time:270.36 | entered_machine_C_time:271.89 | left_machine_C_time:279.79 | 
+----------------------------------------------------
+>>> Part 30: type:2 | arrival_time:262.84 | entered_queue_B_time:262.84 | entered_machine_B_time:280.33 | left_machine_B_time:297.69 | entered_queue_C_time:297.69 | entered_machine_C_time:346.83 | left_machine_C_time:352.92 | 
+----------------------------------------------------
+>>> Part 31: type:1 | arrival_time:273.34 | entered_machine_A_time:273.34 | left_machine_A_time:289.53 | entered_queue_C_time:289.53 | entered_machine_C_time:291.1 | left_machine_C_time:304.96 | 
+----------------------------------------------------
+>>> Part 32: type:2 | arrival_time:274.19 | entered_queue_B_time:274.19 | entered_machine_B_time:297.69 | left_machine_B_time:312.21 | entered_queue_C_time:312.21 | entered_machine_C_time:352.92 | left_machine_C_time:364.68 | 
+----------------------------------------------------
+>>> Part 33: type:2 | arrival_time:294.76 | entered_queue_B_time:294.76 | entered_machine_B_time:312.21 | left_machine_B_time:332.65 | entered_queue_C_time:332.65 | entered_machine_C_time:416.05 | left_machine_C_time:425.84 | 
+----------------------------------------------------
+>>> Part 34: type:1 | arrival_time:297.14 | entered_machine_A_time:297.14 | left_machine_A_time:307.47 | entered_queue_C_time:307.47 | entered_machine_C_time:311.11 | left_machine_C_time:321.61 | 
+----------------------------------------------------
+>>> Part 35: type:2 | arrival_time:313.5 | entered_queue_B_time:313.5 | entered_machine_B_time:332.65 | left_machine_B_time:351.48 | entered_queue_C_time:351.48 | entered_machine_C_time:425.84 | left_machine_C_time:435.78 | 
+----------------------------------------------------
+>>> Part 36: type:1 | arrival_time:318.2 | entered_machine_A_time:318.2 | left_machine_A_time:334.92 | entered_queue_C_time:334.92 | entered_machine_C_time:341.28 | left_machine_C_time:346.83 | 
+----------------------------------------------------
+>>> Part 37: type:2 | arrival_time:322.94 | entered_queue_B_time:322.94 | entered_machine_B_time:351.48 | left_machine_B_time:369.14 | entered_queue_C_time:369.14 | entered_machine_C_time:442.85 | left_machine_C_time:451.43 | 
+----------------------------------------------------
+>>> Part 38: type:2 | arrival_time:327.45 | entered_queue_B_time:327.45 | entered_machine_B_time:369.14 | left_machine_B_time:388.53 | entered_queue_C_time:388.53 | entered_machine_C_time:463.25 | left_machine_C_time:478.45 | 
+----------------------------------------------------
+>>> Part 39: type:2 | arrival_time:332.13 | entered_queue_B_time:332.13 | entered_machine_B_time:388.53 | left_machine_B_time:408.14 | entered_queue_C_time:408.14 | entered_machine_C_time:493.1 | left_machine_C_time:504.73 | 
+----------------------------------------------------
+>>> Part 40: type:1 | arrival_time:337.46 | entered_machine_A_time:337.46 | left_machine_A_time:359.49 | entered_queue_C_time:359.49 | entered_machine_C_time:364.68 | left_machine_C_time:380.21 | 
+----------------------------------------------------
+>>> Part 41: type:2 | arrival_time:351.05 | entered_queue_B_time:351.05 | entered_machine_B_time:408.14 | left_machine_B_time:424.82 | entered_queue_C_time:424.82 | entered_machine_C_time:533.71 | left_machine_C_time:544.04 | 
+----------------------------------------------------
+>>> Part 42: type:1 | arrival_time:355.41 | entered_queue_B_time:355.41 | entered_machine_A_time:359.49 | left_machine_A_time:365.99 | entered_queue_C_time:365.99 | entered_machine_C_time:380.21 | left_machine_C_time:396.04 | 
+----------------------------------------------------
+>>> Part 43: type:2 | arrival_time:366.17 | entered_queue_B_time:366.17 | entered_machine_B_time:424.82 | left_machine_B_time:445.7 | entered_queue_C_time:445.7 | entered_machine_C_time:557.22 | left_machine_C_time:569.39 | 
+----------------------------------------------------
+>>> Part 44: type:1 | arrival_time:370.72 | entered_machine_A_time:370.72 | left_machine_A_time:371.92 | entered_queue_C_time:371.92 | entered_machine_C_time:396.04 | left_machine_C_time:409.94 | 
+----------------------------------------------------
+>>> Part 45: type:1 | arrival_time:392.21 | entered_machine_A_time:392.21 | left_machine_A_time:396.62 | entered_queue_C_time:396.62 | entered_machine_C_time:409.94 | left_machine_C_time:416.05 | 
+----------------------------------------------------
+>>> Part 46: type:2 | arrival_time:393.07 | entered_queue_B_time:393.07 | entered_machine_B_time:445.7 | left_machine_B_time:461.13 | entered_queue_C_time:461.13 | entered_machine_C_time:569.39 | left_machine_C_time:573.7 | 
+----------------------------------------------------
+>>> Part 47: type:2 | arrival_time:405.59 | entered_queue_B_time:405.59 | entered_machine_B_time:461.13 | left_machine_B_time:482.09 | entered_queue_C_time:482.09 | entered_machine_C_time:573.7 | left_machine_C_time:577.28 | 
+----------------------------------------------------
+>>> Part 48: type:1 | arrival_time:410.91 | entered_machine_A_time:410.91 | left_machine_A_time:428.27 | entered_queue_C_time:428.27 | entered_machine_C_time:435.78 | left_machine_C_time:442.85 | 
+----------------------------------------------------
+>>> Part 49: type:2 | arrival_time:421.89 | entered_queue_B_time:421.89 | entered_machine_B_time:482.09 | left_machine_B_time:497.63 | entered_queue_C_time:497.63 | entered_machine_C_time:577.28 | left_machine_C_time:587.08 | 
+----------------------------------------------------
+>>> Part 50: type:2 | arrival_time:425.35 | entered_queue_B_time:425.35 | entered_machine_B_time:497.63 | left_machine_B_time:518.83 | entered_queue_C_time:518.83 | entered_machine_C_time:591.73 | left_machine_C_time:596.67 | 
+----------------------------------------------------
+>>> Part 51: type:1 | arrival_time:433.66 | entered_machine_A_time:433.66 | left_machine_A_time:444.45 | entered_queue_C_time:444.45 | entered_machine_C_time:451.43 | left_machine_C_time:463.25 | 
+----------------------------------------------------
+>>> Part 52: type:2 | arrival_time:443.85 | entered_queue_B_time:443.85 | entered_machine_B_time:540.44 | left_machine_B_time:559.81 | entered_queue_C_time:559.81 | entered_machine_C_time:596.67 | 
+----------------------------------------------------
+>>> Part 53: type:1 | arrival_time:453.1 | entered_machine_A_time:453.1 | left_machine_A_time:466.01 | entered_queue_C_time:466.01 | entered_machine_C_time:478.45 | left_machine_C_time:493.1 | 
+----------------------------------------------------
+>>> Part 54: type:2 | arrival_time:457.19 | entered_queue_B_time:457.19 | entered_machine_B_time:559.81 | left_machine_B_time:579.45 | entered_queue_C_time:579.45 | 
+----------------------------------------------------
+>>> Part 55: type:1 | arrival_time:474.56 | entered_machine_A_time:474.56 | left_machine_A_time:495.01 | entered_queue_C_time:495.01 | entered_machine_C_time:504.73 | left_machine_C_time:519.48 | 
+----------------------------------------------------
+>>> Part 56: type:2 | arrival_time:474.6 | entered_queue_B_time:474.6 | entered_machine_B_time:579.45 | left_machine_B_time:593.73 | entered_queue_C_time:593.73 | 
+----------------------------------------------------
+>>> Part 57: type:2 | arrival_time:483.67 | entered_queue_B_time:483.67 | entered_machine_B_time:593.73 | 
+----------------------------------------------------
+>>> Part 58: type:1 | arrival_time:493.18 | entered_queue_B_time:493.18 | entered_machine_A_time:495.01 | left_machine_A_time:495.92 | entered_queue_C_time:495.92 | entered_machine_C_time:519.48 | left_machine_C_time:533.71 | 
+----------------------------------------------------
+>>> Part 59: type:2 | arrival_time:502.01 | entered_queue_B_time:502.01 | 
+----------------------------------------------------
+>>> Part 60: type:2 | arrival_time:502.05 | entered_queue_B_time:502.05 | 
+----------------------------------------------------
+>>> Part 61: type:1 | arrival_time:514.25 | entered_queue_B_time:514.25 | entered_machine_B_time:518.83 | left_machine_B_time:540.44 | entered_queue_C_time:540.44 | entered_machine_C_time:544.04 | left_machine_C_time:553.08 | 
+----------------------------------------------------
+>>> Part 62: type:2 | arrival_time:522.02 | entered_queue_B_time:522.02 | 
+----------------------------------------------------
+>>> Part 63: type:1 | arrival_time:533.39 | entered_machine_A_time:533.39 | left_machine_A_time:547.94 | entered_queue_C_time:547.94 | entered_machine_C_time:553.08 | left_machine_C_time:557.22 | 
+----------------------------------------------------
+>>> Part 64: type:2 | arrival_time:546.66 | entered_queue_B_time:546.66 | 
+----------------------------------------------------
+>>> Part 65: type:2 | arrival_time:554.02 | entered_queue_B_time:554.02 | 
+----------------------------------------------------
+>>> Part 66: type:1 | arrival_time:554.54 | entered_machine_A_time:554.54 | left_machine_A_time:579.8 | entered_queue_C_time:579.8 | entered_machine_C_time:587.08 | left_machine_C_time:591.73 | 
+----------------------------------------------------
+>>> Part 67: type:1 | arrival_time:568.69 | entered_queue_B_time:568.69 | entered_machine_A_time:579.8 | 
+----------------------------------------------------
+>>> Part 68: type:2 | arrival_time:579.46 | entered_queue_B_time:579.46 | 
+----------------------------------------------------
+>>> Part 69: type:1 | arrival_time:587.67 | entered_queue_B_time:587.67 | 
+----------------------------------------------------
+>>> Part 70: type:2 | arrival_time:590.57 | entered_queue_B_time:590.57 | 
+----------------------------------------------------
+>>> Part 71: type:1 | arrival_time:602.3 | entered_queue_B_time:602.3 | 
+----------------------------------------------------
